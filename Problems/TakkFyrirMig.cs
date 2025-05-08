@@ -8,13 +8,13 @@ namespace Kattis.Problems
     {
         public static void Main()
         {
-            int numberOfGuests = int.Parse(Console.ReadLine() ?? "0");
+            int numberOfGuests = int.Parse(Console.ReadLine() ?? "1");
 
             List<string> guests = new List<string>();
 
             for (int i = 0; i < numberOfGuests; i++)
             {
-                string? guestName = Console.ReadLine();
+                string? guestName = Console.ReadLine() ?? "Noname";
                 guests.Add(guestName ?? "");
             }
 

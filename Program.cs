@@ -1,3 +1,3 @@
 ﻿using Kattis.Problems;
 
-TakkFyrirMig.Main();
+AirfareGrants.Main();
