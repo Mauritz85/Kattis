@@ -1,3 +1,3 @@
 ﻿using Kattis.Problems;
 
-Takk.Main();
+TakkFyrirMig.Main();

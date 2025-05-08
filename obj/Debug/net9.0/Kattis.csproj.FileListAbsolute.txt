@@ -12,3 +12,4 @@
 /Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.pdb
 /Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.genruntimeconfig.cache
 /Users/anton/Programmering/Kattis/obj/Debug/net9.0/ref/Kattis.dll
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.sourcelink.json

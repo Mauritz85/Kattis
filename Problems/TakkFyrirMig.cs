@@ -1,26 +1,26 @@
+#nullable enable
 using System;
+using System.Collections.Generic;
 
 namespace Kattis.Problems
 {
-    public static class Takk
+    public static class TakkFyrirMig
     {
         public static void Main()
         {
+            int numberOfGuests = int.Parse(Console.ReadLine() ?? "0");
 
-            int numberOfGuests = int.Parse(Console.ReadLine());
             List<string> guests = new List<string>();
-
 
             for (int i = 0; i < numberOfGuests; i++)
             {
-                string? name = Console.ReadLine();
-                if (name != null)
-                    guests.Add(name);
+                string? guestName = Console.ReadLine();
+                guests.Add(guestName ?? "");
             }
 
             foreach (string name in guests)
             {
-                Console.WriteLine("Takk " + name);
+                Console.WriteLine($"Takk {name}");
             }
         }
     }
