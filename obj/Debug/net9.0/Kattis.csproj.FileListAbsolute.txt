@@ -1,0 +1,14 @@
+/Users/anton/Programmering/Kattis/bin/Debug/net9.0/Kattis
+/Users/anton/Programmering/Kattis/bin/Debug/net9.0/Kattis.deps.json
+/Users/anton/Programmering/Kattis/bin/Debug/net9.0/Kattis.runtimeconfig.json
+/Users/anton/Programmering/Kattis/bin/Debug/net9.0/Kattis.dll
+/Users/anton/Programmering/Kattis/bin/Debug/net9.0/Kattis.pdb
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.AssemblyInfoInputs.cache
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.AssemblyInfo.cs
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.csproj.CoreCompileInputs.cache
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.dll
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/refint/Kattis.dll
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.pdb
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/Kattis.genruntimeconfig.cache
+/Users/anton/Programmering/Kattis/obj/Debug/net9.0/ref/Kattis.dll
