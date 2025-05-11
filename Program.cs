@@ -1,3 +1,3 @@
 ﻿using Kattis.Problems;
 
-AirfareGrants.Main();
+Eszett.Main();
